@@ -8,3 +8,6 @@ Currently supported request methods are:
 * Stream Context
 
 Refer to the examples folder for usage examples.
+
+
+V3 under development.
